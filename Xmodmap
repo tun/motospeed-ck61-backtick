@@ -1,0 +1,6 @@
+! Motospeed CK61
+! Escape key as backtick
+keycode 9 = dead_grave dead_tilde
+! CapsLock as escape
+clear lock
+keycode 66 = Escape
